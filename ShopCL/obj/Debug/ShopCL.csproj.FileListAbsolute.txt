@@ -1,0 +1,72 @@
+D:\Documents\GoogleDrive\Training\TeamStep32NS\ShopProject\ShopCL\bin\Debug\ShopCL.dll
+D:\Documents\GoogleDrive\Training\TeamStep32NS\ShopProject\ShopCL\bin\Debug\ShopCL.pdb
+D:\Documents\GoogleDrive\Training\TeamStep32NS\ShopProject\ShopCL\obj\Debug\ShopCL.csprojAssemblyReference.cache
+D:\Documents\GoogleDrive\Training\TeamStep32NS\ShopProject\ShopCL\obj\Debug\ShopCL.dll
+D:\Documents\GoogleDrive\Training\TeamStep32NS\ShopProject\ShopCL\obj\Debug\ShopCL.pdb
+D:\Documents\GoogleDrive\Training\TeamStep32NS\ShopProject\ShopCL\bin\Debug\ShopCL.dll.config
+D:\Documents\GoogleDrive\Training\TeamStep32NS\ShopProject\ShopCL\bin\Debug\EntityFramework.dll
+D:\Documents\GoogleDrive\Training\TeamStep32NS\ShopProject\ShopCL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\GoogleDrive\Training\TeamStep32NS\ShopProject\ShopCL\bin\Debug\EntityFramework.xml
+D:\Documents\GoogleDrive\Training\TeamStep32NS\ShopProject\ShopCL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\GoogleDrive\Training\TeamStep32NS\ShopProject\ShopCL\obj\Debug\ShopCL.csproj.CopyComplete
+D:\Documents\GoogleDrive\Training\TeamStep32NS\ShopProject\ShopCL\obj\Debug\ShopCL.Migrations.BD.resources
+D:\Documents\GoogleDrive\Training\TeamStep32NS\ShopProject\ShopCL\obj\Debug\ShopCL.csproj.GenerateResource.cache
+D:\Documents\GoogleDrive\Training\10.WPF\ShopProject\ShopCL\bin\Debug\ShopCL.dll.config
+D:\Documents\GoogleDrive\Training\10.WPF\ShopProject\ShopCL\bin\Debug\ShopCL.dll
+D:\Documents\GoogleDrive\Training\10.WPF\ShopProject\ShopCL\bin\Debug\ShopCL.pdb
+D:\Documents\GoogleDrive\Training\10.WPF\ShopProject\ShopCL\bin\Debug\EntityFramework.dll
+D:\Documents\GoogleDrive\Training\10.WPF\ShopProject\ShopCL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\GoogleDrive\Training\10.WPF\ShopProject\ShopCL\bin\Debug\EntityFramework.xml
+D:\Documents\GoogleDrive\Training\10.WPF\ShopProject\ShopCL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\GoogleDrive\Training\10.WPF\ShopProject\ShopCL\obj\Debug\ShopCL.csprojAssemblyReference.cache
+D:\Documents\GoogleDrive\Training\10.WPF\ShopProject\ShopCL\obj\Debug\ShopCL.csproj.CopyComplete
+D:\Documents\GoogleDrive\Training\10.WPF\ShopProject\ShopCL\obj\Debug\ShopCL.dll
+D:\Documents\GoogleDrive\Training\10.WPF\ShopProject\ShopCL\obj\Debug\ShopCL.pdb
+D:\Documents\GoogleDrive\Training\10.WPF\004 12102019\ShopProject\ShopCL\bin\Debug\ShopCL.dll.config
+D:\Documents\GoogleDrive\Training\10.WPF\004 12102019\ShopProject\ShopCL\bin\Debug\ShopCL.dll
+D:\Documents\GoogleDrive\Training\10.WPF\004 12102019\ShopProject\ShopCL\bin\Debug\ShopCL.pdb
+D:\Documents\GoogleDrive\Training\10.WPF\004 12102019\ShopProject\ShopCL\bin\Debug\EntityFramework.dll
+D:\Documents\GoogleDrive\Training\10.WPF\004 12102019\ShopProject\ShopCL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\GoogleDrive\Training\10.WPF\004 12102019\ShopProject\ShopCL\bin\Debug\EntityFramework.xml
+D:\Documents\GoogleDrive\Training\10.WPF\004 12102019\ShopProject\ShopCL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\GoogleDrive\Training\10.WPF\004 12102019\ShopProject\ShopCL\obj\Debug\ShopCL.csprojAssemblyReference.cache
+D:\Documents\GoogleDrive\Training\10.WPF\004 12102019\ShopProject\ShopCL\obj\Debug\ShopCL.csproj.CopyComplete
+D:\Documents\GoogleDrive\Training\10.WPF\004 12102019\ShopProject\ShopCL\obj\Debug\ShopCL.dll
+D:\Documents\GoogleDrive\Training\10.WPF\004 12102019\ShopProject\ShopCL\obj\Debug\ShopCL.pdb
+D:\Document\GoogleDrive\Training\10.WPF\004 12102019\ShopProject\ShopCL\bin\Debug\ShopCL.dll.config
+D:\Document\GoogleDrive\Training\10.WPF\004 12102019\ShopProject\ShopCL\bin\Debug\ShopCL.dll
+D:\Document\GoogleDrive\Training\10.WPF\004 12102019\ShopProject\ShopCL\bin\Debug\ShopCL.pdb
+D:\Document\GoogleDrive\Training\10.WPF\004 12102019\ShopProject\ShopCL\bin\Debug\EntityFramework.dll
+D:\Document\GoogleDrive\Training\10.WPF\004 12102019\ShopProject\ShopCL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Document\GoogleDrive\Training\10.WPF\004 12102019\ShopProject\ShopCL\bin\Debug\EntityFramework.xml
+D:\Document\GoogleDrive\Training\10.WPF\004 12102019\ShopProject\ShopCL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Document\GoogleDrive\Training\10.WPF\004 12102019\ShopProject\ShopCL\obj\Debug\ShopCL.csprojAssemblyReference.cache
+D:\Document\GoogleDrive\Training\10.WPF\004 12102019\ShopProject\ShopCL\obj\Debug\ShopCL.csproj.CopyComplete
+D:\Document\GoogleDrive\Training\10.WPF\004 12102019\ShopProject\ShopCL\obj\Debug\ShopCL.dll
+D:\Document\GoogleDrive\Training\10.WPF\004 12102019\ShopProject\ShopCL\obj\Debug\ShopCL.pdb
+D:\Document\GoogleDrive\Training\10.WPF\004 12102019\ShopProject\ShopCL\obj\Debug\ShopCL.Migrations.CreateDB.resources
+D:\Document\GoogleDrive\Training\10.WPF\004 12102019\ShopProject\ShopCL\obj\Debug\ShopCL.csproj.GenerateResource.cache
+D:\Documents\GoogleDrive\Training\10.WPF\004 12102019\ShopProject\ShopCL\obj\Debug\ShopCL.Migrations.CreateDB.resources
+D:\Documents\GoogleDrive\Training\10.WPF\004 12102019\ShopProject\ShopCL\obj\Debug\ShopCL.csproj.GenerateResource.cache
+D:\Document\GoogleDrive\Training\!!WorkingProjects\ShopProject\ShopCL\bin\Debug\ShopCL.dll.config
+D:\Document\GoogleDrive\Training\!!WorkingProjects\ShopProject\ShopCL\bin\Debug\ShopCL.dll
+D:\Document\GoogleDrive\Training\!!WorkingProjects\ShopProject\ShopCL\bin\Debug\ShopCL.pdb
+D:\Document\GoogleDrive\Training\!!WorkingProjects\ShopProject\ShopCL\bin\Debug\EntityFramework.dll
+D:\Document\GoogleDrive\Training\!!WorkingProjects\ShopProject\ShopCL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Document\GoogleDrive\Training\!!WorkingProjects\ShopProject\ShopCL\bin\Debug\EntityFramework.xml
+D:\Document\GoogleDrive\Training\!!WorkingProjects\ShopProject\ShopCL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Document\GoogleDrive\Training\!!WorkingProjects\ShopProject\ShopCL\obj\Debug\ShopCL.csprojAssemblyReference.cache
+D:\Document\GoogleDrive\Training\!!WorkingProjects\ShopProject\ShopCL\obj\Debug\ShopCL.csproj.CopyComplete
+D:\Document\GoogleDrive\Training\!!WorkingProjects\ShopProject\ShopCL\obj\Debug\ShopCL.dll
+D:\Document\GoogleDrive\Training\!!WorkingProjects\ShopProject\ShopCL\obj\Debug\ShopCL.pdb
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\ShopProject\ShopCL\bin\Debug\ShopCL.dll.config
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\ShopProject\ShopCL\bin\Debug\ShopCL.dll
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\ShopProject\ShopCL\bin\Debug\ShopCL.pdb
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\ShopProject\ShopCL\bin\Debug\EntityFramework.dll
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\ShopProject\ShopCL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\ShopProject\ShopCL\bin\Debug\EntityFramework.xml
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\ShopProject\ShopCL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\ShopProject\ShopCL\obj\Debug\ShopCL.csprojAssemblyReference.cache
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\ShopProject\ShopCL\obj\Debug\ShopCL.csproj.CopyComplete
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\ShopProject\ShopCL\obj\Debug\ShopCL.dll
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\ShopProject\ShopCL\obj\Debug\ShopCL.pdb

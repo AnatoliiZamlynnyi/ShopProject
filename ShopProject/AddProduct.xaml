@@ -1,0 +1,50 @@
+﻿<Window x:Class="ShopProject.AddProduct"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ShopProject"
+        mc:Ignorable="d"
+        Title="Додати товар" WindowStartupLocation="CenterScreen" Height="300" Width="630">
+    <Grid Background="{StaticResource brushReg}">
+        <StackPanel>
+            <StackPanel Orientation="Horizontal"  HorizontalAlignment="Center">
+                <DatePicker Name="date" IsTodayHighlighted="True"  Language="Uk" SelectedDateFormat="Short" SelectedDateChanged="Date_Changet"></DatePicker>
+                <Label>Назва:</Label>
+                <TextBox Name="nameProd"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal"  HorizontalAlignment="Center">
+                <Label>Ціна:</Label>
+                <TextBox Name="inPrice" Width="80" KeyUp="Price_KeyUp"></TextBox>
+                <Label>Кількість:</Label>
+                <TextBox Name="countProd" Width="80" KeyUp="Summa_KeyUp"></TextBox>
+                <Label>Одиниця виміру:</Label>
+                <TextBox Name="unitProd" Width="80"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Label>Націнка %:</Label>
+                <TextBox Name="mark" Width="80">25</TextBox>
+                <Label>Ціна з націнкою:</Label>
+                <TextBox Name="outPrice" Width="80"></TextBox>
+                <Label>Сумма:</Label>
+                <TextBox Name="summaPrice" Width="80" ></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                <Label>Категорія:</Label>
+                <ComboBox Name="categProd" ></ComboBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                <Label>Постачальник:</Label>
+                <ComboBox Name="postProd"></ComboBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                <Label>Примітка:</Label>
+                <TextBox Name="noteProd"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Grid.Row="2" Grid.ColumnSpan="2" HorizontalAlignment="Right">
+                <Button Name="upload" Style="{StaticResource myButton}" Click="Save_Click" Background="Green">Зберегти</Button>
+                <Button Name="add" Style="{StaticResource myButton}" Click="Cancel_Click" Background="Red">Відмінити</Button>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

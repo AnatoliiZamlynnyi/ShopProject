@@ -1,0 +1,30 @@
+﻿<Window x:Class="ShopProject.AddSupplier"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ShopProject"
+        mc:Ignorable="d"
+        Title="Додати постачальника" WindowStartupLocation="CenterScreen" Height="220" Width="450">
+    <Grid Background="{StaticResource brushReg}">
+        <StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                <Label>Постачальник:</Label>
+                <TextBox Name="postName" Height="30" Width="300"></TextBox>
+            </StackPanel>
+            <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Right">
+                <Label>Телефон:</Label>
+                <TextBox Name="postPhone" Height="30" Width="300"></TextBox>
+            </StackPanel>
+            <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right">
+                <Label>Адреса:</Label>
+                <TextBox Name="postAdres" Height="30" Width="300"></TextBox>
+            </StackPanel>
+            <DockPanel Margin="3"  Grid.Row="5" HorizontalAlignment="Center">
+                <Button Name="register" Width="190" Click="Click_AddPostButton" Background="Green">Зберегти</Button>
+                <Button Name="cancelPost" Width="190" Click="Click_CancelPButton" Background="Red">Відмінити</Button>
+            </DockPanel>
+            <Label Name="stanPost" Foreground="Red" Grid.Row="6"></Label>
+        </StackPanel>
+    </Grid>
+</Window>

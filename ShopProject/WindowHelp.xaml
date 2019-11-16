@@ -1,0 +1,12 @@
+﻿<Window x:Class="ShopProject.WindowHelp"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ShopProject"
+        mc:Ignorable="d"
+        Title="Інформація та Допомога по системі Магазин" HorizontalAlignment="Center" Height="330" Width="800"  WindowStartupLocation="CenterScreen">
+    <Grid Background="{StaticResource brushOs}">
+        <TextBox Background="{StaticResource brushOs}" Name="help" HorizontalAlignment="Stretch" Margin="5" TextWrapping="Wrap" Height="300" Width="785"></TextBox>
+    </Grid>
+</Window>

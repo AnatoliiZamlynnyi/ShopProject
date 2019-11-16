@@ -1,0 +1,58 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:ShopProject">
+    <Style x:Key="myStyle">
+        <Setter Property="Control.Width" Value="200"></Setter>
+        <Setter Property="Control.Height" Value="30"></Setter>
+        <Setter Property="Control.FontSize" Value="10"></Setter>
+        <Setter Property="Control.Margin" Value="3"></Setter>
+    </Style>
+    <Style TargetType="Button">
+        <Setter Property="Width" Value="150"></Setter>
+        <Setter Property="Height" Value="30"></Setter>
+        <Setter Property="FontSize" Value="12"></Setter>
+        <Setter Property="Margin" Value="3"></Setter>
+    </Style>
+    <Style x:Key="myButton">
+        <Setter Property="Control.Width" Value="100"></Setter>
+        <Setter Property="Control.Height" Value="30"></Setter>
+        <Setter Property="Control.FontSize" Value="12"></Setter>
+        <Setter Property="Control.Margin" Value="3"></Setter>
+    </Style>
+    <Style TargetType="TextBox">
+        <Setter Property="Width" Value="400"></Setter>
+        <Setter Property="Height" Value="30"></Setter>
+        <Setter Property="FontSize" Value="12"></Setter>
+        <Setter Property="VerticalContentAlignment" Value="Center"></Setter>
+        <Setter Property="Margin" Value="0,3,3,3"></Setter>
+    </Style>
+    <Style TargetType="ComboBox">
+        <Setter Property="Width" Value="300"></Setter>
+        <Setter Property="Height" Value="30"></Setter>
+        <Setter Property="FontSize" Value="13"></Setter>
+        <Setter Property="Margin" Value="0,3,3,3"></Setter>
+    </Style>
+    <Style TargetType="Label">
+        <Setter Property="FontSize" Value="16"></Setter>
+        <Setter Property="Margin" Value="0,0,3,0"></Setter>
+        <Setter Property="HorizontalAlignment" Value="Center"></Setter>
+    </Style>
+    <LinearGradientBrush x:Key="brushLog">
+        <GradientStop Color="SaddleBrown" Offset="0"></GradientStop>
+        <GradientStop Color="Tomato" Offset="0.25"></GradientStop>
+        <GradientStop Color="Brown" Offset="0.5"></GradientStop>
+        <GradientStop Color="Tomato" Offset="0.75"></GradientStop>
+        <GradientStop Color="SaddleBrown" Offset="1"></GradientStop>
+    </LinearGradientBrush>
+    <LinearGradientBrush x:Key="brushReg" SpreadMethod="Pad" StartPoint="0,0" EndPoint="0,1">
+        <GradientStop Color="Blue" Offset="0"></GradientStop>
+        <GradientStop Color="LightGoldenrodYellow" Offset="0.5"></GradientStop>
+        <GradientStop Color="Yellow" Offset="1"></GradientStop>
+    </LinearGradientBrush>
+    <LinearGradientBrush x:Key="brushOs">
+        <GradientStop Color="Yellow" Offset="0"></GradientStop>
+        <GradientStop Color="LightGoldenrodYellow" Offset="0.2"></GradientStop>
+        <GradientStop Color="LightGoldenrodYellow" Offset="0.8"></GradientStop>
+        <GradientStop Color="Yellow" Offset="1"></GradientStop>
+    </LinearGradientBrush>
+</ResourceDictionary>
